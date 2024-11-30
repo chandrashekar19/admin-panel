@@ -3,7 +3,6 @@
 ![Dashboard](https://img.shields.io/badge/React-Admin--Dashboard-blue?style=flat-square&logo=react)
 ![Syncfusion](https://img.shields.io/badge/Syncfusion-Components-green?style=flat-square&logo=syncfusion)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-CSS-blue?style=flat-square&logo=tailwindcss)
-![License](https://img.shields.io/github/license/your-repo-name/your-project-name)
 
 ## 🌟 **Overview**
 
